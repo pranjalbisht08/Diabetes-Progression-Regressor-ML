@@ -1,5 +1,5 @@
 # Diabetes-Progression-Regressor-ML
-A basic Linear Regression model in Machine Learning ,that help users to understand how  a simple regressor works.
+A basic Linear Regression model in Machine Learning ,that help users understand how  a simple regressor works.
 
 This project focuses on predicting whether a person is diabetic or not using machine learning techniques. The analysis and model implementation are done in a Jupyter Notebook (Diabetes.ipynb).
 The dataset contains medical diagnostic measurements that help in predicting diabetes in patients.
